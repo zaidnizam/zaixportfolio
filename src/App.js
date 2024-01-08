@@ -1,4 +1,5 @@
 import React from 'react';
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import './App.css';
 import Navbar from './Components/Navbar/Navbar';
 import Hero from './Components/Hero/Hero';
